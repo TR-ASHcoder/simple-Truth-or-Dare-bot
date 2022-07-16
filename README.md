@@ -1,6 +1,6 @@
 # requirements:
 
-**imports**
+**imports:**
 
 discord.py 
 
