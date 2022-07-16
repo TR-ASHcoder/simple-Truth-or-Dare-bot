@@ -7,6 +7,8 @@ discord.py
 random
 
 -----
+**actual requirements:**
+
 
 a token to put into the bot 
 
@@ -26,3 +28,7 @@ gives you a dare
 
 **truth:**
 gives you a truth
+
+
+**help:**
+gives you all the commands in a embed
