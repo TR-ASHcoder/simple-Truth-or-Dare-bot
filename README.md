@@ -6,8 +6,6 @@ discord.py
 
 random
 
-os
-
 -----
 
 a token to put into the bot 
