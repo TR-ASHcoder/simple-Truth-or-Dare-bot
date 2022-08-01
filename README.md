@@ -1,13 +1,15 @@
-# requirements:
+# a simple Truth or Dare bot
+truthen and daren
 
-**imports:**
+#imports:
 
-discord.py 
 
-random
+[`discord.py`](https://pypi.org/project/discord.py/)
 
------
-**actual requirements:**
+
+`random` < ----- comes with python
+
+#requirements:
 
 
 a token to put into the bot 
