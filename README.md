@@ -1,7 +1,7 @@
 # a simple Truth or Dare bot
 truthen and daren
 
-#imports:
+# imports:
 
 
 [`discord.py`](https://pypi.org/project/discord.py/)
@@ -9,7 +9,7 @@ truthen and daren
 
 `random` < ----- comes with python
 
-#requirements:
+# requirements:
 
 
 a token to put into the bot 
