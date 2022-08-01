@@ -1,4 +1,6 @@
-# a simple Truth or Dare bot
+# ![image](https://user-images.githubusercontent.com/90879002/182223452-dbfa4fb3-57ca-4a52-8c82-cb5c48790352.png)
+ a simple Truth or Dare bot ![image](https://user-images.githubusercontent.com/90879002/182223430-4e833a8f-1381-42e6-8d43-55de6fe025df.png)
+
 truthen and daren
 
 # imports:
